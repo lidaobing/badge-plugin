@@ -155,5 +155,10 @@
             <version>2.4.6</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.google.code.findbugs</groupId>
+            <artifactId>annotations</artifactId>
+            <version>3.0.1</version>
+        </dependency>
     </dependencies>
 </project>  
